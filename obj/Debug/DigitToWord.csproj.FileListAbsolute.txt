@@ -1,0 +1,6 @@
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\bin\Debug\DigitToWord.exe.config
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\bin\Debug\DigitToWord.exe
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\bin\Debug\DigitToWord.pdb
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\obj\Debug\DigitToWord.csprojResolveAssemblyReference.cache
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\obj\Debug\DigitToWord.exe
+c:\users\mail mirzaliyev\documents\visual studio 2013\Projects\Books&Tests\DigitToWord\obj\Debug\DigitToWord.pdb
