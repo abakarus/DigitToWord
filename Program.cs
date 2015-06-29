@@ -29,7 +29,7 @@ namespace DigitToWord
 
             teklik = strteklik[int.Parse(strreqem.Substring(strreqem.Length - 1, 1))-1];
             onluq = stronluq[int.Parse(strreqem.Substring(strreqem.Length - 2, 1))-1];
-            yuzluk = strteklik[int.Parse(strreqem.Substring(strreqem.Length - 3, 1)) - 1] + stryuzluk[0];
+            yuzluk = strteklik[int.Parse(strreqem.Substring(strreqem.Length - 3, 1)) - 1] + stryuzluk[0]; 
 
 
             string result = yuzmilyon + onmilyon + tekmilyon + yuzminlik + onminlik + tekminlik + yuzluk + onluq + teklik;
